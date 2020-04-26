@@ -21,6 +21,8 @@
 
 ### PISA survey 2012
 - http://www.oecd.org/pisa/pisaproducts/PISA-2012-technical-report-final.pdf
+- https://www.oecd.org/pisa/data/42025182.pdf
+- https://www.oecd-ilibrary.org/docserver/9789264167872-en.pdf?expires=1587756729&id=id&accname=guest&checksum=3C4CAAFFDA33331CACE78A9B3A852FA5
 
 ### Language and phonetics
 - https://en.wikipedia.org/wiki/Korean_language#Writing_system
@@ -31,6 +33,7 @@
 - https://www.investopedia.com/insights/worlds-top-economies/ (updated Mar 18, 2020)
 
 ### Code
--
--
+- https://pandas.pydata.org/
+- https://www.geeksforgeeks.org/
+- https://stackoverflow.com/
 - https://towardsdatascience.com/3-simple-ways-to-handle-large-data-with-pandas-d9164a3c02c1
