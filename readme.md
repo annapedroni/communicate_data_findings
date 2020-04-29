@@ -29,9 +29,6 @@
 - https://en.wikipedia.org/wiki/Writing_system
 - https://link.springer.com/article/10.3758/s13423-015-0835-2#Sec7
 
-### Best world economies
-- https://www.investopedia.com/insights/worlds-top-economies/ (updated Mar 18, 2020)
-
 ### Code
 - https://pandas.pydata.org/
 - https://www.geeksforgeeks.org/
