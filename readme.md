@@ -119,7 +119,7 @@ I'm planning to regroup the students by different parameters (primary first lang
 
 Therefore I think it would be wrong to use the weights within this project.
 
-## Summary of Findings
+## Cleaning, exploration and problems
 
 I initially kept:
 
@@ -164,6 +164,8 @@ What had happened is that Countries who chose to use the simplified version used
 These Countries resulted to be the South American ones, plus Tunisia and Vietnam.
 I had initially kept them, because they had been weighted so that the results of those Countries could be comparable with the rest of the data. It is indeed possible to use the data all together and with the correct weight for each line) to judge the performance of the schooling system of each Country compared to the others. However I am regrouping the data by a different criterion (the language type) and therefore including the Countries whose schooling system has evidently a markedly different effect on the performance of their students (and, in fact, those Countries choose the simplified booklets) was simply adding complexity (and a variable that needed to be highlighted).
 
+## Better choices
+
 So I started the selection again and I better chose my variables:
 - 'Country code 3-character',
 - 'Student ID',
@@ -187,6 +189,8 @@ and I added:
 The two plausible levels variables were added ALONG the plausible value, this time, so that I had both a numerical and a categorical variable for reading and mathematics scores.
 
 The same goes for the ESCS levels variable: it is the categorical version of the 'Index of economic, social and cultural status' (numerical).
+
+## Summary of Findings
 
 #### An univariate look at my new dataset:
 
@@ -229,7 +233,7 @@ Therefore I looked for the relationship between **Math values and language type*
 - The deep orthography language group distribution has a similar shape, but with a lower mean (the lowest of the three).
 - The shallow orthography group is in the middle, with a mean a little above the one of the deep orthography languages, and the smallest std.
 
-_This plot needs a title and better axix labels_
+
 
 - so then explaing that ESCS seems to have a big impact on performance (see above)
 
